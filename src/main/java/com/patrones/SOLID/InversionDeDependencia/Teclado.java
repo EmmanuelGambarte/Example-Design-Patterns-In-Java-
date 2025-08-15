@@ -1,4 +1,4 @@
-package com.patrones.SOLID.InersionDeDependencia;
+package com.patrones.SOLID.InversionDeDependencia;
 
 //🟥 Teclado.java — implementación concreta que rompe el DIP
 public class Teclado {

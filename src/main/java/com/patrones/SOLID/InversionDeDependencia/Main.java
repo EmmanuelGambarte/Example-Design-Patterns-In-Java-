@@ -1,4 +1,4 @@
-package com.patrones.SOLID.InersionDeDependencia;
+package com.patrones.SOLID.InversionDeDependencia;
 
 //🟨 Main.java — prueba de ambas implementaciones
 public class Main {

@@ -1,4 +1,4 @@
-package com.patrones.SOLID.InersionDeDependencia;
+package com.patrones.SOLID.InversionDeDependencia;
 
 //🟩 MouseIoD.java — implementación correcta del DIP
 public class MouseDIP implements IMouse {

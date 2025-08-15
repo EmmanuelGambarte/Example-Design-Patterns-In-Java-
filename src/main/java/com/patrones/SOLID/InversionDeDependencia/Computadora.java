@@ -1,4 +1,4 @@
-package com.patrones.SOLID.InersionDeDependencia;
+package com.patrones.SOLID.InversionDeDependencia;
 
 public class Computadora {
 

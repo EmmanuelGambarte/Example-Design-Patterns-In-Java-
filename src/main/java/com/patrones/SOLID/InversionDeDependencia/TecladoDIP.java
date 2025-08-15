@@ -1,4 +1,4 @@
-package com.patrones.SOLID.InersionDeDependencia;
+package com.patrones.SOLID.InversionDeDependencia;
 
 //🟩 TecladoIoD.java — implementación correcta del DIP
 // ✅ Hereda la abstracción base y permite extender comportamientos de mouse

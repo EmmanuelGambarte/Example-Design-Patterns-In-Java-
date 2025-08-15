@@ -1,4 +1,4 @@
-package com.patrones.SOLID.InersionDeDependencia;
+package com.patrones.SOLID.InversionDeDependencia;
 
 //🟩 ITeclado.java — interfaz específica para teclados
 // ✅ Hereda la abstracción base y permite extender comportamientos de teclado
